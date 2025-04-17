@@ -1,6 +1,6 @@
 # 🚀 STLE Prediction in Hypersonic Vehicles
 
-This project explores the use of supervised learning and deep learning models to predict **Shock-induced Turbulent Laminar Equilibrium (STLE)** locations in hypersonic vehicles using sparse pressure sensor data.
+This project explores the use of supervised learning and deep learning models to predict **Shock-Train Leading Edge (STLE)** locations in hypersonic vehicles using sparse pressure sensor data.
 
 📁 All code is implemented in Jupyter notebooks and based on experimental aerodynamic data.
 
