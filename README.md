@@ -4,6 +4,8 @@ This project explores the use of supervised learning and deep learning models to
 
 📁 All code is implemented in Jupyter notebooks and based on experimental aerodynamic data.
 
+![Demo](./UTF-8Forcing_movie.gif)
+
 ---
 
 ## 🧠 Problem Statement
