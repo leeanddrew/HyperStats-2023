@@ -20,14 +20,14 @@ Given time-series pressure sensor readings from hypersonic wind tunnel experimen
   - Linear Regression
   - Random Forest
   - Support Vector Machines (SVM)
+  - Feed-forward Neural Network
+  - Recurrent Neural Network
 - Engineered time-series features to denoise pressure signals and improve model accuracy
 - Trained a **deep neural network** using only 7 of 37 total runs and evaluated on >900K test observations
 
 ---
 
-## 📈 Key Results
-
-- 📉 **Reduced Mean Squared Error by 77%**
+## Key Results
 - 📈 **Improved R² from 0.79 to 0.89**
 - 🧪 DNN generalized well to unseen test conditions, despite limited training set size
 
